@@ -5,3 +5,4 @@
 ## local development
 
 1. docker-compose up
+2. test
